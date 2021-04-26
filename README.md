@@ -4,4 +4,4 @@ Using UiPath Document Understanding and machine learning to extract data from mu
 Extract data (invoice number, date, total etc.) from a folder of invoices to an Excel file. 
 With Present Validation Station, where users, in an attended robot, can verify the results.
 
-![alt text](https://github.com/bacdillon/UIPATH-Alfred-Bot/blob/main/alfred-bot.jpg)
+![alt text](https://github.com/bacdillon/UiPath-Document-Understanding-mulitple-Invoices-data-extraction/blob/main/Document%20Understanding%2BMachine%20Learning.png)
